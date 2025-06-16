@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Blog CMS Demo
 
-## Getting Started
+This is a full-stack blog content management system (CMS) built with:
 
-First, run the development server:
+- 🧱 [Next.js](https://nextjs.org/) – React framework
+- ⚡ [TypeScript](https://www.typescriptlang.org/) – static typing
+- 🔥 [Firebase](https://firebase.google.com/) – authentication and database
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) – utility-first styling
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 About the Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project was created as a **portfolio demo** to showcase key frontend and full-stack skills:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Static and dynamic routing in Next.js
+- Responsive UI using Tailwind CSS
+- Authentication (login/logout) with Firebase
+- Admin dashboard for managing posts and quotes
+- Modular components and clean folder structure
+- Type-safe components and props
 
-## Learn More
+You can browse the **public blog** and preview the **admin interface** using a demo login.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Public homepage with a list of articles
+- Dynamic post detail pages
+- Admin panel (protected) for:
+  - Creating new blog posts
+  - Adding motivational quotes
+- Client-side form validation
+- Meta data and SEO-friendly setup
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔐 Demo Access
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+You can log in as a demo user to view the admin section.
+
+> 🔑 Demo credentials:  
+> **Email:** `demo@example.com`  
+> **Password:** `demopassword`  
+
+> *(Note: This is a fake account for demonstration purposes only.)*
