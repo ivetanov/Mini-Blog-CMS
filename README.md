@@ -8,6 +8,8 @@ This is a full-stack blog content management system (CMS) built with:
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) – utility-first styling
 
 ---
+react-hook-for
+react-select
 
 ## 📝 About the Project
 
