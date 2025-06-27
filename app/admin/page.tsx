@@ -1,8 +1,8 @@
 "use client"
-import { useEffect, useState } from "react"
+import { useState } from "react"
 //import { auth } from "../firebase/config" nainstalovat
-import { useRouter } from "next/navigation"
-import { signOut } from "firebase/auth"
+// import { useRouter } from "next/navigation"
+// import { signOut } from "firebase/auth"
 import NewPostForm from "@/components/NewPostForm/NewPostForm"
 import NewTipForm from "@/components/NewTipForm/NewTipForm"
 
